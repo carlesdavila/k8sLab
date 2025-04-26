@@ -10,4 +10,4 @@ spec:
     - name: web-ctr
       image: carlesdavila/k8slab:1.0
       ports:
-        - containerPort: 8080
+        - containerPort: 8082
